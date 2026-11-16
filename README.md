@@ -62,6 +62,3 @@ Generated in `outputs/`:
 
 ## Ethics
 Only a site that explicitly allows scraping practice is used, with a request delay. Always check `robots.txt` and terms of service before scraping other sites.
-
-## Author
-Your Name, Roll No., College, Course (edit this before submitting)
